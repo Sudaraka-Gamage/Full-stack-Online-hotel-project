@@ -1,0 +1,154 @@
+{
+  "projectName": "magento2",
+  "projectOwner": "vuestorefront",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 80,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "bloodf",
+      "name": "Heitor Ramon Ribeiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1626923?v=4",
+      "profile": "https://github.com/bloodf",
+      "contributions": [
+        "code",
+        "maintenance",
+        "doc",
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "alefbarbeli",
+      "name": "Alef Barbeli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7727647?v=4",
+      "profile": "https://github.com/alefbarbeli",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "domideimel",
+      "name": "Dominik Deimel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32941053?v=4",
+      "profile": "https://github.com/domideimel",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "LiorLindvor",
+      "name": "Lior Lindvor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6757942?v=4",
+      "profile": "https://github.com/LiorLindvor",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "hcmlopes",
+      "name": "Henrique Lopes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20449158?v=4",
+      "profile": "https://github.com/hcmlopes",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "DaiLoc5698",
+      "name": "Đại Lộc Lê Quang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76195735?v=4",
+      "profile": "https://github.com/DaiLoc5698",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "zfmaster",
+      "name": "Bogdan Podlesnii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10129233?v=4",
+      "profile": "https://github.com/zfmaster",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "filrak",
+      "name": "Filip Rakowski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15185752?v=4",
+      "profile": "https://github.com/filrak",
+      "contributions": [
+        "question",
+        "mentoring",
+        "review"
+      ]
+    },
+    {
+      "login": "filipsobol",
+      "name": "Filip Sobol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4145208?v=4",
+      "profile": "https://github.com/filipsobol",
+      "contributions": [
+        "question",
+        "mentoring",
+        "review"
+      ]
+    },
+    {
+      "login": "andrzejewsky",
+      "name": "Patryk Andrzejewski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7943292?v=4",
+      "profile": "https://github.com/andrzejewsky",
+      "contributions": [
+        "question",
+        "mentoring",
+        "review"
+      ]
+    },
+    {
+      "login": "renanoliveira0",
+      "name": "Renan Oliveira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1081576?v=4",
+      "profile": "https://github.com/renanoliveira0",
+      "contributions": [
+        "tool",
+        "plugin"
+      ]
+    },
+    {
+      "login": "patrickmonteiro",
+      "name": "Patrick Monteiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13258255?v=4",
+      "profile": "https://github.com/patrickmonteiro",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kevingorjan",
+      "name": "Kevin Gorjan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/789614?v=4",
+      "profile": "https://github.com/KevinGorjan",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "bartoszherba",
+      "name": "Bartosz Herba",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16045377?v=4",
+      "profile": "https://github.com/bartoszherba",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 5
+}
